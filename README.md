@@ -1,3 +1,13 @@
+# Warning
+
+This is my personal practice repository for rust
+if you are or are planning to use rustlings to learn
+rust stay off this repository and go to the official one:
+[https://github.com/rust-lang/rustlings] (https://github.com/rust-lang/rustlings)
+If you are finnished and went to do something like compare your answers
+to mine. Thats fine.
+
+
 ![crab pet](https://i.imgur.com/LbZJgmm.gif)
 
 # rustlings 🦀❤️
